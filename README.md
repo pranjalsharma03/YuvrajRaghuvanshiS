@@ -33,6 +33,7 @@
 <img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/androidstudio.svg" alt="Android Studio" /> &nbsp;
 <img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/flutter.svg" alt="Flutter" /> &nbsp;
 <img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/linux.svg" alt="Linux" /> &nbsp;
+<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/android.svg" alt="Android" /> &nbsp;
 <img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/github.svg" alt="GitHub" /> &nbsp;
 <img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/csharp.svg" alt="C#" /> &nbsp;
 <img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/dart.svg" alt="Dart" /> &nbsp;
