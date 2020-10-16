@@ -55,6 +55,6 @@
 [EarlAzWebsite]: https://earlaz.000webhostapp.com
 [twitter]: https://twitter.com/Yuvraj_R_S
 [linkedin]: https://linkedin.com/in/YuvrajRaghuvanshiS
-[protonmail]: mailto:YuvrajRaghuvanshi.S@protonmail.com&subject=FromGitHub
+[protonmail]: mailto:YuvrajRaghuvanshi.S%40protonmail.com&subject=From%20GitHub
 [spotify]: https://open.spotify.com/user/31plhhhdxai5fn2vxuv3pi55uqr4
 [hackerrank]: https://www.hackerrank.com/ShadyMadeMeYRS
