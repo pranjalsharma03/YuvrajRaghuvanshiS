@@ -1,7 +1,4 @@
-# Hi there, I'm Yuvraj👋
-
-![Twitter Follow](https://img.shields.io/twitter/follow/Yuvraj_R_S?label=Yuvraj) &nbsp;
-<img src="https://komarev.com/ghpvc/?username=yuvrajraghuvanshis&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajraghuvanshis" />
+# Hi there, I'm Yuvraj <img src="https://komarev.com/ghpvc/?username=yuvrajraghuvanshis&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajraghuvanshis" />
 
 
 
