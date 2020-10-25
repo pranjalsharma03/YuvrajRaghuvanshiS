@@ -4,10 +4,11 @@
 
 ## I’m a Unity, Flutter, Android Developer
 
-- 🔭 I’m currently working on [EarlAz][EarlAzWebsite]!
+- 🔭 I’m currently leading [EarlAz][EarlAzWebsite] !
+- 🛸 I'm also working with [WebWhatsAPI][URLWhatsAPI] on a fork [WhatsApp-Automate][WAAutomate] !
 - 🌱 I’m currently learning advanced C# and ML
 - 🧠 I work on Kali in my free time
-- 👯 I’m looking to develop more games
+- 🎈 I’m looking to develop more games
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw pen sketches and portraits
 
@@ -55,3 +56,5 @@
 [protonmail]: mailto:YuvrajRaghuvanshi.S%40protonmail.com?subject=From%20GitHub
 [spotify]: https://open.spotify.com/user/31plhhhdxai5fn2vxuv3pi55uqr4
 [hackerrank]: https://www.hackerrank.com/ShadyMadeMeYRS
+[URLWhatsApi]: https://webwhatsapi.readthedocs.io/en/latest/
+[WAAutomate]: https://github.com/YuvrajRaghuvanshiS/WhatsApp-Automate
