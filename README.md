@@ -34,6 +34,7 @@
 <img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/android.svg" alt="Android" /> &nbsp;
 <img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/github.svg" alt="GitHub" /> &nbsp;
 <img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/csharp.svg" alt="C#" /> &nbsp;
+<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/python.svg" alt="Python" /> &nbsp;
 <img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/dart.svg" alt="Dart" /> &nbsp;
 <img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/html5.svg" alt="HTML5" /> &nbsp;
 <img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/css3.svg" alt="CSS 3" /> &nbsp;
