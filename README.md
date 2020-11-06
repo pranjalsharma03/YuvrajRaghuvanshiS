@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently leading [EarlAz][EarlAzWebsite] !
 - 🛸 I'm also working with [WebWhatsAPI][URLWhatsAPI] on a fork [WhatsApp-Automate][WAAutomate] !
-- 🌱 I’m currently learning advanced C# and ML
-- 🧠 I work on Kali in my free time
-- 🎈 I’m looking to develop more games
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw pen sketches and portraits
+- 🌱 I’m currently learning advanced C# and ML.
+- ⛳ I play CTF in my free time.
+- 🎈 I’m looking to develop more games.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to draw pen sketches and portraits.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
