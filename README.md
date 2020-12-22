@@ -48,7 +48,7 @@
 
 <br />
 
-<img align="left" alt="Yuvraj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yuvrajraghuvanshis&show_icons=true&hide_border=true&count_private=true&theme=gotham" />
+[<img align="left" alt="Yuvraj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yuvrajraghuvanshis&show_icons=true&hide_border=true&count_private=true&theme=gotham" />](# "Some of my stats.")
 
 
 
