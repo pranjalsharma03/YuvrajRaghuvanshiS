@@ -1,4 +1,4 @@
-<h4 align="center">Light attracts bugs, toggle on...<a href="https://github.com/settings/appearance" title="Click to toggle on dark mode." ><img height="35" width="87.5" style="vertical-align:middle" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/github_dark_alien.png" alt="dark toggle"/></a></h4> 
+<h4 align="center" style="vertical-align:middle">Light attracts bugs, toggle on...</h4><a href="https://github.com/settings/appearance" title="Click to toggle on dark mode." ><img height="35" width="87.5" style="vertical-align:middle" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/github_dark_alien.png" alt="dark toggle"/></a>
 
 <h1 align="center"> Hi there, I'm Raghuvanshi, Yuvraj <img src="https://komarev.com/ghpvc/?username=yuvrajraghuvanshis&color=008080&style=flat&label=Views" alt="yuvrajraghuvanshis" /> </h1>
 
