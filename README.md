@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Raghuvanshi, Yuvraj <img src="https://komarev.com/ghpvc/?username=yuvrajraghuvanshis&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajraghuvanshis" /> </h1>
+<h1 align="center"> Hi there, I'm Raghuvanshi, Yuvraj <img src="https://komarev.com/ghpvc/?username=yuvrajraghuvanshis&color=008080&style=flat&label=Views" alt="yuvrajraghuvanshis" /> </h1>
 
 
 
