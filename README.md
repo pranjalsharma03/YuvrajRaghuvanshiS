@@ -1,10 +1,8 @@
-<div style="text-align:center; vertical-align:middle;" markdown="1">
-  <h3>Light attracts bugs, toggle on 
-    <a href="https://github.com/settings/appearance" title="Click to toggle dark mode on.">
-      <img style="vertical-align:middle;" height="30" width="45" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/dark_toggle.png" alt="dark toggle"/>
-    </a>
-  </h3>
-</div>
+<h3 align="center">Light attracts bugs, toggle on 
+  <a href="https://github.com/settings/appearance" title="Click to toggle dark mode on.">
+    <img style="vertical-align:middle;" height="18.72" width="28.08" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/dark_toggle.png" alt="dark toggle"/>
+  </a>
+</h3>
 
 <h1 align="center"> Hi there, I'm Raghuvanshi, Yuvraj <img src="https://komarev.com/ghpvc/?username=yuvrajraghuvanshis&color=008080&style=flat&label=Views" alt="yuvrajraghuvanshis" /> </h1>
 
