@@ -14,7 +14,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-<h2 align="center"> Places to check me out! </h2>
+## Places to check me out!
 
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/twitter.svg" alt="Twitter" />][twitter] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/linkedin.svg" alt="LinkedIn" />][linkedin] &nbsp;
@@ -23,8 +23,7 @@
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/spotify.svg" alt="Spotify" />][spotify] &nbsp;
 
 
-<h3 align="center"> Tools and Languages : </h3>
-
+### Tools and Languages :
 
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/unity.svg" alt="Unity 3D" />](# "Unity 3D") &nbsp;
 [<img height="35" width="32" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/visualstudio.svg" alt="Visual Studio"/>](# "Visual Studio") &nbsp;
