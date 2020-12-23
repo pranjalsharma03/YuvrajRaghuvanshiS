@@ -1,5 +1,5 @@
 <h3 align="center">Light attracts bugs, toggle on 
-  <a href="https://github.com/settings/appearance" title="Click to toggle dark mode on.">
+  <a href="https://github.com/settings/appearance" target="_blank" title="Click to toggle dark mode on.">
     <img style="vertical-align:middle;" height="18.72" width="28.08" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/dark_toggle.png" alt="dark toggle"/>
   </a>
 </h3>
