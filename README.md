@@ -1,8 +1,8 @@
-# Hi there, I'm Yuvraj <img src="https://komarev.com/ghpvc/?username=yuvrajraghuvanshis&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajraghuvanshis" />
+<h1 align="center"> Hi there, I'm Raghuvanshi, Yuvraj <img src="https://komarev.com/ghpvc/?username=yuvrajraghuvanshis&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajraghuvanshis" /> </h1>
 
 
 
-## I’m a Unity, Flutter, Android Developer
+<h2 align="center"> I’m a Unity, Flutter, Android Developer </h2>
 
 - 🔭 I’m currently leading [EarlAz][EarlAzWebsite] !
 - 🛸 I'm also working with [WebWhatsAPI][URLWhatsAPI] on a fork [WhatsApp-Automate][WAAutomate] !
@@ -14,7 +14,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-### Places to check me out!
+<h2 align="center"> Places to check me out! </h2>
 
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/twitter.svg" alt="Twitter" />][twitter] &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/linkedin.svg" alt="LinkedIn" />][linkedin] &nbsp;
@@ -23,8 +23,7 @@
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/spotify.svg" alt="Spotify" />][spotify] &nbsp;
 
 
-
-### Tools and Languages :
+<h3 align="center"> Tools and Languages : </h3>
 
 
 [<img height="35" width="35" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/unity.svg" alt="Unity 3D" />](# "Unity 3D") &nbsp;
@@ -48,7 +47,7 @@
 
 <br />
 
-[<img align="left" alt="Yuvraj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yuvrajraghuvanshis&show_icons=true&hide_border=true&count_private=true&theme=gotham" />](# "Some of my stats.")
+[<img align="center" alt="Yuvraj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yuvrajraghuvanshis&show_icons=true&hide_border=true&count_private=true&theme=gotham" />](# "Some of my stats.")
 
 
 
