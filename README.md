@@ -1,3 +1,5 @@
+<h4 align="center">Light attracts bugs, toggle on...<a href="https://github.com/settings/appearance" title="Click to toggle on dark mode." ><img height="35" width="87.5" style="vertical-align:middle" src="https://raw.githubusercontent.com/yuvrajraghuvanshis/YuvrajRaghuvanshiS/master/icons/github_dark_alien.png" alt="dark toggle"/></a></h4> 
+
 <h1 align="center"> Hi there, I'm Raghuvanshi, Yuvraj <img src="https://komarev.com/ghpvc/?username=yuvrajraghuvanshis&color=008080&style=flat&label=Views" alt="yuvrajraghuvanshis" /> </h1>
 
 
@@ -47,7 +49,6 @@
 <br />
 
 [<img align="" alt="Yuvraj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yuvrajraghuvanshis&show_icons=true&hide_border=false&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016" />](# "Some of my stats.")
-
 
 
 [EarlAzWebsite]: https://earlaz.000webhostapp.com (EarlAz is an abbreviation for "Early Alzheimer's Detection & Prevention" - using Mobile Game and Machine Learning)
