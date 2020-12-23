@@ -4,7 +4,7 @@
 
 
 
-<h2 align="center"> I’m a Unity, Flutter, Android Developer </h2>
+<h2 align="center"> I’m a Unity, Flutter, & Android Developer </h2>
 
 - 🔭 I’m currently leading [EarlAz][EarlAzWebsite] !
 - 🛸 I'm also working with [WebWhatsAPI][URLWhatsAPI] on a fork [WhatsApp-Automate][WAAutomate] !
