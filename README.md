@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning advanced C# and ML.
 - ⛳ I play CTF in my free time.
 - 🎈 I’m looking to develop more games.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw pen sketches and portraits.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
